@@ -8,15 +8,12 @@ Sou um entusiasta de tecnologia e estudante de **Ciência da Computação**. Atu
 * **JavaScript** (foco atual em Vanilla e Node.js)
 * **HTML5 & CSS3** (desenvolvimento web focado em estrutura e estilo)
 * **GDScript** (utilizado para desenvolvimento de jogos na Godot)
-* **C** (explorado em projetos de Sistemas Operacionais, como kernels multitarefa)
+* **C** (uso no aprendizado de lógica de programação e explorado em projetos de Sistemas Operacionais)
 
 💼 **Ferramentas:**
 * **VS Code e Antigravity** (editores que eu uso)
 * **Git & GitHub** (onde Versiono meus projetos e organizo meu portfólio)
 * **Godot Engine** (para desenvolvimento de jogos e estudos de estruturas de dados)
-* **Linux/Unix Terminal** (lidando com ambientes de sistemas operacionais)
-
-
 
 
 
